@@ -1,0 +1,11 @@
+# Vs Code
+.DS_Store
+
+# Chat History
+*.csv
+
+# Secrets
+.env
+
+# Libraries
+.venv
